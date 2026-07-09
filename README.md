@@ -18,7 +18,7 @@
 ---
 
 ### 🎓 About Me
-- 💻 **BS Software Engineering** student at University of Central Punjab (UCP), Lahore
+- 💻**BS Software Engineering** student at University of Central Punjab (UCP), Lahore
 - 🧠 Currently deepening skills in **DSA, Database Systems, and Software Engineering practices**
 - 🏷️ Exploring **data labeling 
 - 📍 Based in Lahore, Pakistan
@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=za3060873-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=za3060873-gif&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" align="center" src="https://github-readme-stats-wj12.vercel.app/api?username=za3060873-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" align="center" src="https://github-readme-stats-wj12.vercel.app/api/top-langs/?username=za3060873-gif&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -63,3 +63,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=za3060873-gif&label=Profile%20Views&color=a78bfa&style=flat" />
 </p>
+
+
+
