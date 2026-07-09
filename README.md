@@ -20,7 +20,7 @@
 ### 🎓 About Me
 - 💻 **BS Software Engineering** student at University of Central Punjab (UCP), Lahore
 - 🧠 Currently deepening skills in **DSA, Database Systems, and Software Engineering practices**
-- 🏷️ Exploring **data labeling & freelance remote work** (Upwork, Forage simulations)
+- 🏷️ Exploring **data labeling 
 - 📍 Based in Lahore, Pakistan
 - 🌱 Always learning — one commit at a time
 
