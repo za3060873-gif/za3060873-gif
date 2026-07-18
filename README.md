@@ -95,6 +95,7 @@ Data Structures, Database Design, and UML modeling.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/za3060873-gif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawera-fareed-84961035b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:za3060873@gmail.com)
 
 </div>
@@ -106,5 +107,5 @@ Data Structures, Database Design, and UML modeling.
 </div>
 
 <div align="center">
-  <sub>✨ Always Learning, Always Building ✨</sub>
+  <sub>✨ Where Logic Meets Ambition 💻 ✨</sub>
 </div>
