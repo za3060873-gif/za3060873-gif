@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0b2e"/>
+      <stop offset="100%" stop-color="#2d1250"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff6ec7"/>
+      <stop offset="100%" stop-color="#a239ca"/>
+    </linearGradient>
+    <linearGradient id="barGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5ef1ff"/>
+      <stop offset="100%" stop-color="#a239ca"/>
+    </linearGradient>
+
+    <clipPath id="langsClip"><rect width="460" height="210" rx="16"/></clipPath>
+    <clipPath id="barClip"><rect width="380" height="14" rx="7"/></clipPath>
+  </defs>
+  <g clip-path="url(#langsClip)">
+    <rect width="460" height="210" fill="url(#cardBg)"/>
+    <rect x="0.75" y="0.75" width="458.5" height="208.5" rx="15" fill="none" stroke="#4a2472" stroke-width="1.5"/>
+    <text x="24" y="34" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700" fill="#f3e9ff">Most Used Languages</text>
+
+    <g transform="translate(24,50)" clip-path="url(#barClip)">
+      <rect width="380" height="14" fill="#3a1c5c"/>
+      
+        <rect x="0.0" y="0" width="0" height="14" fill="#e8912d">
+          <animate attributeName="width" from="0" to="209.0" begin="0.20s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        </rect>
+        <rect x="209.0" y="0" width="0" height="14" fill="#4479a1">
+          <animate attributeName="width" from="0" to="95.0" begin="0.35s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        </rect>
+        <rect x="304.0" y="0" width="0" height="14" fill="#3572A5">
+          <animate attributeName="width" from="0" to="57.0" begin="0.50s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        </rect>
+        <rect x="361.0" y="0" width="0" height="14" fill="#8e8e93">
+          <animate attributeName="width" from="0" to="19.0" begin="0.65s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        </rect>
+    </g>
+
+    
+      <g transform="translate(24,90)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.5s" fill="freeze"/>
+        <circle cx="0" cy="-4" r="5" fill="#e8912d"/>
+        <text x="14" y="0" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e7d6ff">Java</text>
+        <text x="380" y="0" text-anchor="end" font-family="'Fira Code',monospace" font-size="12" fill="#ffd76e">55%</text>
+      </g>
+      <g transform="translate(24,116)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.5s" fill="freeze"/>
+        <circle cx="0" cy="-4" r="5" fill="#4479a1"/>
+        <text x="14" y="0" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e7d6ff">SQL</text>
+        <text x="380" y="0" text-anchor="end" font-family="'Fira Code',monospace" font-size="12" fill="#ffd76e">25%</text>
+      </g>
+      <g transform="translate(24,142)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.5s" fill="freeze"/>
+        <circle cx="0" cy="-4" r="5" fill="#3572A5"/>
+        <text x="14" y="0" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e7d6ff">Python</text>
+        <text x="380" y="0" text-anchor="end" font-family="'Fira Code',monospace" font-size="12" fill="#ffd76e">15%</text>
+      </g>
+      <g transform="translate(24,168)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.5s" fill="freeze"/>
+        <circle cx="0" cy="-4" r="5" fill="#8e8e93"/>
+        <text x="14" y="0" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e7d6ff">Other</text>
+        <text x="380" y="0" text-anchor="end" font-family="'Fira Code',monospace" font-size="12" fill="#ffd76e">5%</text>
+      </g>
+  </g>
+</svg>
