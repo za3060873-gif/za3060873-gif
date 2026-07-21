@@ -3,12 +3,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-  <img src="banner.svg?v=1" alt="Sawera Shehzadi banner" width="100%">
+  <img src="banner.svg?v=1" alt="Sawera Fareed banner" width="100%">
 </picture>
 
 <br>
 
-<img src="lanyard.svg?v=1" alt="Sawera Shehzadi ID badge" width="220">
+<img src="lanyard.svg?v=1" alt="Sawera Fareed ID badge" width="220">
 
 </div>
 
@@ -54,6 +54,12 @@ Data Structures, Database Design, and UML modeling.
   <img src="stats.svg?v=1" alt="GitHub stats" width="46%">
   &nbsp;&nbsp;
   <img src="langs.svg?v=1" alt="Most used languages" width="46%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=za3060873-gif&theme=radical&hide_border=true&background=1A0B2E&stroke=FF6EC7&ring=FF6EC7&fire=FFD76E&currStreakLabel=FFD76E" alt="GitHub streak stats" width="70%">
 </div>
 
 <br>
