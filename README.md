@@ -65,7 +65,7 @@ Data Structures, Database Design, and UML modeling.
 <br>
 
 <div align="center">
-  <img src="trophies.svg?v=1" alt="GitHub trophies" width="90%">
+  <img src="https://github-profile-trophy.vercel.app/?username=za3060873-gif&theme=radical&no-frame=true&margin-w=8&row=1" alt="GitHub trophies" width="90%">
 </div>
 
 <br>
