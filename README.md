@@ -51,9 +51,9 @@ Data Structures, Database Design, and UML modeling.
 <br>
 
 <div align="center">
-  <img src="stats.svg?v=1" alt="GitHub stats" width="46%">
+  <img src="https://github-readme-stats.vercel.app/api?username=za3060873-gif&show_icons=true&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FF6EC7&icon_color=5EF1FF&text_color=E7D6FF" alt="GitHub stats" width="46%">
   &nbsp;&nbsp;
-  <img src="langs.svg?v=1" alt="Most used languages" width="46%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=za3060873-gif&layout=compact&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FF6EC7&text_color=E7D6FF" alt="Most used languages" width="46%">
 </div>
 
 <br>
